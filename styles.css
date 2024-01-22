@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.card
+{
+	padding: 50px
+	width: 400px;
+	 height: 600px;
+	box-shadow: 10x 5px 5px red;
+	background-color: lightblue
+	
+}
+img
+{
+	width: 200px
+}
